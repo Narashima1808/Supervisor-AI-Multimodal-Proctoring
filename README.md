@@ -96,8 +96,7 @@ Provides real-time alerts with explanations
 
 ✅ Explainable AI integration
 
-Supervisor-AI/
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9b2c4e85-8e62-4876-abca-99480cf75211" />
+
 
 
 
