@@ -8,6 +8,9 @@ With the rapid adoption of online examinations, maintaining academic integrity h
 Supervisor-AI is a real-time, intelligent multimodal proctoring system that leverages computer vision, audio analysis, and system monitoring to detect suspicious behavior during online exams.
 
 
+
+
+
 🚀 Key Features
 🎥 Computer Vision Monitoring
 Face Detection & Tracking
